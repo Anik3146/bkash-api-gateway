@@ -1,0 +1,2 @@
+     var ob = new PrintTest();
+     ob.PerformAction();
